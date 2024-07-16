@@ -7,9 +7,13 @@ My name is Javier and i'm a Computer Science student at [UCM](https://informatic
 </p>
 
 #### Currently learning
-Right now i'm learning Flutter, Python and Docker
+Right now i'm learning Flutter, Python and Docker.
 
 #### Learned lenguages
+- `C` Used C to managing files on linux systems, sockets, distributed systems and firmware.
+- `C++` Used C++ to resolve a diversity of algorithm problems and some simple programs. 
+- `Java` Used Java to made Genetic Algorithms, physic's simulator and an aplication for managing a restaurant.
+- `VHDL` Used VHDL to made various microcontrollers and embedded systems.
 
 
 <p>
